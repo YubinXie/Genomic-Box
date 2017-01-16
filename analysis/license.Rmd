@@ -1,0 +1,16 @@
+---
+title: "License"
+author: "Yubin Xie"
+date: "January 15, 2017"
+output: 
+  html_document:
+    theme: readable
+    includes:
+      before_body: [header.html]
+    toc: true
+    toc_float: true
+---
+**Last updated:** `r Sys.Date()`
+
+The copyright is maintained by the contributors.
+The material is released under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/)

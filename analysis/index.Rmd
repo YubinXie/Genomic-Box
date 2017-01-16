@@ -1,0 +1,21 @@
+---
+title: "Home"
+author: "Yubin Xie"
+date: "January 15, 2017"
+output: 
+  html_document:
+    includes:
+      before_body: [header.html]
+    toc: true
+    toc_float: true
+    theme: readable
+
+---
+
+**Last updated:** `r format(Sys.Date(),format="%B %d, %Y")`
+
+# ...
+
+#[Variants Annotation](AnnotationDocument.html)
+
+# ...

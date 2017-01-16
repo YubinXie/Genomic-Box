@@ -1,0 +1,17 @@
+---
+title: "About"
+author: "Yubin Xie"
+date: "January 15, 2017"
+output: 
+  html_document:
+    theme: readable
+    includes:
+      before_body: [header.html]
+    toc: true
+    toc_float: true
+---
+**Last updated:** `r Sys.Date()`
+</br>
+</br>
+
+Yubin Xie is currently a research assistant in Prof. Xin He lab, Department of Human Genetics, University of Chicago.
